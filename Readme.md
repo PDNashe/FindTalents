@@ -1,5 +1,5 @@
 
-\#What is Find Talents ?
+# What is Find Talents ?
 Find Talents a platform to promote all  talented people around the globe.
 This platform focuses on providing exposure to all entertainment personals.
 
@@ -9,23 +9,23 @@ This platform focuses on providing exposure to all entertainment personals.
 - Make a booking
 
 
-\#Field of focus:
-\-Models
-\-Actors
-\-Singers
-\-DJs
-\-Dancers
-\-Painters
-\-Poetry
-\-Art
-\-Musicians : Guitar , piano , drums , saxophone
-\-Comedians
-\-Presenters
-\-Make up artist
-\-Fashion designers
-\-Photographers
+# Field of focus:
+- Models
+- Actors
+- Singers
+- DJs
+- Dancers
+- Painters
+- Poetry
+- Art
+- Musicians : Guitar , piano , drums , saxophone
+- Comedians
+- Presenters
+- Make up artist
+- Fashion designers
+- Photographers
 
-\#Services provided:
+# Services provided:
 Managing
 Marketing
 Classes
@@ -35,4 +35,4 @@ Classes
 
 ## 1. Save Question
 
-<img src="screeshots/index Page.png" width="200">
+<img src="screenshots/index Page.png" width="200">

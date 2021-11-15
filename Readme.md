@@ -35,4 +35,4 @@ Classes
 
 ## 1. Save Question
 
-<img src="screenshots/index Page.png" width="200">
+<img src="screenshots/index Page.PNG" width="200">

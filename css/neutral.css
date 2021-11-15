@@ -1,0 +1,98 @@
+/*This is the css for common features on all webpages
+  e.g Nav Bar , Footer , Background
+*/
+body {
+  background-image: url('../assets/camera2.jpg');
+  background-size: 900px;
+  min-height: 20vh;
+}
+
+html.plt-mobile ion-app {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none
+}
+
+ion-app.force-statusbar-padding {
+  --ion-safe-area-top: 20px
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.navbar {
+  /*background-image:url('../assets/camera2.jpg');*/
+  background-color: #0C1417;
+  color: white;
+  font-weight: 10;
+  border-radius: 5px;
+  /*	font-family: fantasy;*/
+  padding: 10px -5px 50px 0;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  text-indent: 1px;
+  font-weight: bold;
+}
+
+#logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 20px;
+}
+
+#list {
+  padding-top: 5px;
+  margin-left: 720px;
+  font-size: 30px;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: black;
+}
+
+#category {
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+  margin: 200px 0 0px 0;
+  padding: 0 0 -20px 0;
+  -webkit-filter: blur(0);
+  filter: blur(0);
+}
+
+.footer-navi {
+  color: white;
+  text-indent: 10px;
+  margin-top: -20px;
+}
+
+#details {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 0 0 450px;
+}
+
+.line {
+  color: white;
+  background-color: gold;
+  height: 5px;
+  min-width: 1150px;
+  margin-top : 30px;;
+}
+
+a:link {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  ;
+}

@@ -1,0 +1,26 @@
+#card1, #card2, #card3 {
+  background-color: black;
+  color: white;
+}
+
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 150px;
+}
+
+div.gallery img {
+  margin-top: 10px;
+  width: 50%;
+  height: auto;
+}
+
+.checked {
+  color: orange;
+}
+
+#modalStyle {
+  background-color: black;
+  color: gold;
+  text-indent: 200px;
+}

@@ -35,7 +35,7 @@ This platform focuses on providing exposure to all entertainment personals.
 ### 2. Choosing Category A
   Select Category i.e. Models / Art / Photography  
 
-<img src="screenshots/index Page.PNG" width="300">
+<img src="screenshots/index_Options.PNG" width="300">
 
 ### 3. Choosing Category B
   Select Category i.e. Musicians / Actors / Artist  
